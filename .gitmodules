@@ -1,0 +1,9 @@
+[submodule "sozcuk"]
+	path = sozcuk
+	url = https://github.com/ataeyvaz/sozcuk.git
+[submodule "tabcel"]
+	path = tabcel
+	url = https://github.com/ataeyvaz/tabcel.git
+[submodule "eaglepdf"]
+	path = eaglepdf
+	url = https://github.com/ataeyvaz/eaglepdf.git
