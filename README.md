@@ -58,6 +58,8 @@ eaglepdf/       alt modül → ataeyvaz/eaglepdf
 
 ## Lisans
 
-Uygulamaların lisansları kendi depolarındadır (EaglePDF: AGPL-3.0). Bu depodaki kurulum betikleri için ayrı bir lisans henüz belirlenmemiştir.
+Bu depodaki kurulum betikleri, testler ve belgeler **GNU Affero Genel Kamu Lisansı v3 (AGPL-3.0)** altındadır: bkz. [`LICENSE`](LICENSE).
+
+Üç uygulama bu depoya alt modül olarak bağlıdır ve **kendi lisanslarını korur**; lisansları kendi depolarındadır (EaglePDF: AGPL-3.0, PyMuPDF AGPL olduğu için). Kurulum paketi onları yalnızca bir araya getirir; her uygulamanın tam kaynak kodu kendi deposunda (ve burada alt modül olarak) herkese açıktır. Uygulamaların kullandığı açık kaynak bileşenlerin lisansları, her uygulamanın kendi `Hakkında` penceresinde ve depolarındaki lisans dosyalarında listelenir.
 
 İletişim: ataeyvaz@gmail.com
